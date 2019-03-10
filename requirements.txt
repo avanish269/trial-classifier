@@ -1,0 +1,5 @@
+python~=3.7.1
+sklearn
+numpy
+matplotlib
+warnings
